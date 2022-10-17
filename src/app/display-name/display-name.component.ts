@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class DisplayNameComponent implements OnInit {
 
   constructor() { }
-
+  data:any=[]
   ngOnInit(): void {
   }
 
